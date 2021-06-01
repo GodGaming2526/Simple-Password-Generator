@@ -17,7 +17,7 @@ UPCASE_CHARACTERS = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
 SYMBOLS = ['@', '#', '$', '%', '=', ':', '?', '.', '/', '|', '~', '>',
 		'*', '(', ')', '<']
 
-WORDS = ['GOD', 'DAMN', '']
+WORDS = ['GOD', 'DAMN', 'GG']
 
 COMBINED_LIST = DIGITS + UPCASE_CHARACTERS + LOCASE_CHARACTERS + SYMBOLS
 
