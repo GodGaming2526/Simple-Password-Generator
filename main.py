@@ -19,7 +19,7 @@ SYMBOLS = ['@', '#', '$', '%', '=', ':', '?', '.', '/', '|', '~', '>',
 
 WORDS = ['GOD', 'DAMN', 'GG']
 
-COMBINED_LIST = DIGITS + UPCASE_CHARACTERS + LOCASE_CHARACTERS + SYMBOLS + W
+COMBINED_LIST = DIGITS + UPCASE_CHARACTERS + LOCASE_CHARACTERS + SYMBOLS + WORS
 
 rand_digit = random.choice(DIGITS)
 rand_upper = random.choice(UPCASE_CHARACTERS)
