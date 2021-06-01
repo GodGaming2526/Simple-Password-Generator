@@ -25,7 +25,7 @@ rand_digit = random.choice(DIGITS)
 rand_upper = random.choice(UPCASE_CHARACTERS)
 rand_lower = random.choice(LOCASE_CHARACTERS)
 rand_symbol = random.choice(SYMBOLS)
-rand_word = random.choice
+rand_word = random.choice()
 
 temp_pass = rand_digit + rand_upper + rand_lower + rand_symbol
 
